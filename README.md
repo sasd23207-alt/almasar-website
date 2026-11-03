@@ -12,8 +12,10 @@
 
 ## النشر
 يمكن ربط المستودع بـ Cloudflare Pages ونشر الموقع كملفات ثابتة:
-- Build command: اتركه فارغاً.
-- Build output directory: `/` (جذر المستودع).
+- Framework preset: None.
+- Build command: اتركه فارغاً (لا توجد خطوة بناء).
+- Build output directory: `.` (جذر المستودع حيث يوجد `index.html`).
+- Production branch: `main`.
 
 ## عناصر لم تكتمل بعد
 - إضافة ملف العرض التقديمي التفاعلي الأصلي «مستقبل التعليم» إلى مجلد مستقل وربطه بالمعاينة.
