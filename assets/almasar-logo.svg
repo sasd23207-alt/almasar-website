@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-labelledby="title desc">
+<title id="title">ALMASAR — المسار</title><desc id="desc">رمز هندسي لمسار متصل يتقدم عبر ثلاث نقاط، مع الاسم العربي واللاتيني.</desc>
+<defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#2876C7"/><stop offset="1" stop-color="#7ED2D9"/></linearGradient></defs>
+<g transform="translate(12 10)">
+<path d="M20 108 L20 52 Q20 38 34 38 L70 38 Q84 38 84 52 L84 108" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M84 108 L122 70 L154 92 L196 34" fill="none" stroke="#D34D5B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="20" cy="108" r="8" fill="#2876C7"/><circle cx="84" cy="108" r="8" fill="#7ED2D9"/><circle cx="196" cy="34" r="9" fill="#D34D5B"/>
+</g>
+<g fill="#10243C"><text x="500" y="83" text-anchor="end" font-family="Arial,sans-serif" font-size="56" font-weight="700">المسار</text><text x="500" y="119" text-anchor="end" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#58718A">ALMASAR</text></g>
+</svg>
